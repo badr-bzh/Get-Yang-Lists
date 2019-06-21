@@ -3,7 +3,7 @@ Module ietf-interfaces2
 
 Easy implementation of module ietf-interfaces, in order to understand list mechanisms in OpenYuma
 
-steps:
+Steps:
 install OpenYuma or yuma123...
 put ietf-interfaces2.yang  in /usr/share/yuma/modules/netconfcentral/
 do make_sil_dir ietf-interfaces2 in /usr/src/OpenYuma/exmaple-modules
