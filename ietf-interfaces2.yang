@@ -1,6 +1,6 @@
 module ietf-interfaces2 {
 
-  namespace "urn:ietf:params:xml:ns:yang:ietf-interfaces";
+  namespace "urn:ietf:params:xml:ns:yang:ietf-interfaces2";
   prefix if;
 
   import ietf-yang-types {
